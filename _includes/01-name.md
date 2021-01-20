@@ -1,2 +1,7 @@
 # Bryan
-Just added my name and made it H1
+## Bryan
+### Bryan
+#### Bryan
+##### Bryan
+###### Bryan
+Made name headers of different sizes
