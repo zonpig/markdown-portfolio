@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Completed K-Dramas: 
+  * What's wrong with Secretary Kim
+  * Hospital Playlist
+  * Vagabond
